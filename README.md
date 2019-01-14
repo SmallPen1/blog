@@ -11,3 +11,5 @@
 [js的节流、防抖以及使用场景](https://github.com/SmallPen1/blog/issues/4)
 
 [前端跨域问题以及解决办法](https://github.com/SmallPen1/blog/issues/5)
+
+[深入理解js闭包](https://github.com/SmallPen1/blog/issues/7)
