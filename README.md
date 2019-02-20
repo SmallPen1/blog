@@ -16,6 +16,8 @@
 
 [原型和原型链](https://github.com/SmallPen1/blog/issues/9)
 
+[JS异步解决方案以及各自的优缺点](https://github.com/SmallPen1/blog/issues/11)
+
 ## CSS
 
 [css经典布局——圣杯布局](https://github.com/SmallPen1/blog/issues/10)
