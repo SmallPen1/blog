@@ -17,6 +17,7 @@
 [原型和原型链](https://github.com/SmallPen1/blog/issues/9)
 
 [JS异步解决方案以及各自的优缺点](https://github.com/SmallPen1/blog/issues/11)
+[JS本地存储(cookie、LocalStorage、SessionStorage)](https://github.com/SmallPen1/blog/issues/12)
 
 ## CSS
 
